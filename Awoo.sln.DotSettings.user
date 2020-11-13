@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2fabcb1d_002Dae1e_002D4c5b_002Db0d2_002Da06f34be3564/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="VoteTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0A47AE82-501F-4849-A614-95CA766ED39C::net5.0::Awoo.Core.Tests.Records.VoteTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0A47AE82-501F-4849-A614-95CA766ED39C::net5.0::Awoo.Core.Tests.Util.GetLynchVotesTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0A47AE82-501F-4849-A614-95CA766ED39C::net5.0::Awoo.Core.Tests.Util.GetWerewolvesTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Awoo/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Lycan/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Phar\.nuget\packages\microsoft.net.test.sdk\16.7.1\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Phar\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Phar\.nuget\packages\microsoft.testplatform.testhost\16.7.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Phar\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Phar\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Phar\.nuget\packages\xunit.runner.visualstudio\2.4.3\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Phar\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Phar\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Awoo.827598382.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Phar\RiderProjects\Awoo" t="IncludeFlat">
+      <e p="Awoo" t="IncludeRecursive">
+        <e p="Awoo.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Awoo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Awoo.Core" t="IncludeRecursive">
+        <e p="Actions" t="Include">
+          <e p="Game" t="Include">
+            <e p="AddPlayerAction.cs" t="Include" />
+            <e p="EndGameAction.cs" t="Include" />
+            <e p="RemovePlayerAction.cs" t="Include" />
+            <e p="SetDayAction.cs" t="Include" />
+            <e p="SetIdentifierAction.cs" t="Include" />
+            <e p="SetNightAction.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="AssignRoleAction.cs" t="Include" />
+            <e p="ClearVoteAction.cs" t="Include" />
+            <e p="EliminateAction.cs" t="Include" />
+            <e p="VoteLynchAction.cs" t="Include" />
+            <e p="VoteNoLynchAction.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Awoo.Core.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Enums" t="Include">
+          <e p="Appearance.cs" t="Include" />
+          <e p="EliminationCause.cs" t="Include" />
+          <e p="Phase.cs" t="Include" />
+          <e p="Team.cs" t="Include" />
+          <e p="VoteType.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Awoo.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Records" t="Include">
+          <e p="GameState.cs" t="Include" />
+          <e p="PlayerState.cs" t="Include" />
+          <e p="Vote.cs" t="Include" />
+        </e>
+        <e p="Reducers" t="Include">
+          <e p="Game" t="Include">
+            <e p="GameReducer.AddPlayer.cs" t="Include" />
+            <e p="GameReducer.EndGame.cs" t="Include" />
+            <e p="GameReducer.GetReducers.cs" t="Include" />
+            <e p="GameReducer.RemovePlayer.cs" t="Include" />
+            <e p="GameReducer.SetDay.cs" t="Include" />
+            <e p="GameReducer.SetIdentifier.cs" t="Include" />
+            <e p="GameReducer.SetNight.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerReducer.AssignRole.cs" t="Include" />
+            <e p="PlayerReducer.ClearVote.cs" t="Include" />
+            <e p="PlayerReducer.Eliminate.cs" t="Include" />
+            <e p="PlayerReducer.GetReducers.cs" t="Include" />
+            <e p="PlayerReducer.VoteLynch.cs" t="Include" />
+            <e p="PlayerReducer.VoteNoLynch.cs" t="Include" />
+          </e>
+          <e p="RootReducer.cs" t="Include" />
+        </e>
+        <e p="Roles" t="Include">
+          <e p="AlphaWerewolf.cs" t="Include" />
+          <e p="Bodyguard.cs" t="Include" />
+          <e p="Hunter.cs" t="Include" />
+          <e p="Lycan.cs" t="Include" />
+          <e p="Mason.cs" t="Include" />
+          <e p="Mayor.cs" t="Include" />
+          <e p="Prince.cs" t="Include" />
+          <e p="Seer.cs" t="Include" />
+          <e p="Sorceress.cs" t="Include" />
+          <e p="Villager.cs" t="Include" />
+          <e p="Werewolf.cs" t="Include" />
+          <e p="Witch.cs" t="Include" />
+        </e>
+        <e p="Util" t="Include">
+          <e p="Util.GetLynchCandidates.cs" t="Include" />
+          <e p="Util.GetWerewolfTargetCandidates.cs" t="Include" />
+          <e p="Util.GetWerewolves.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Awoo.Core.Tests" t="IncludeRecursive">
+        <e p="Awoo.Core.Tests.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Release" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Awoo.Core.Tests.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Records" t="Include">
+          <e p="VoteTests.cs" t="Include" />
+        </e>
+        <e p="Util" t="Include">
+          <e p="GetLynchCandidatesTests.cs" t="Include" />
+          <e p="GetWerewolvesTests.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Awoo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
